@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost:3307/newsblog",
+    "prod_uri": "mysql://root:@localhost:3307/newsblog",
+    "fb_url": "https://facebook.com/newsblog",
+    "tw_url": "https://twitter.com/newsblog",
+    "gh_url": "https://github.com/newsblog",
+    "blog_name": "News Blog",
+    "tagline": "A Blog liked by Programmers",
+    "gmail-user": "your-email@gmail.com",
+    "gmail-password": "gmailpassword",
+    "about_text": "Hi my name is Dhriti and I am a programmer, who loves making websites for users.",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user":"dhriti",
+    "admin_password": "password",
+    "upload_location": "C:\\Users\\gadas\\PycharmProjects\\Flask\\static"
+  }
+}
